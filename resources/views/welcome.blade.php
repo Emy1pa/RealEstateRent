@@ -15,7 +15,7 @@
     <section
         class="relative bg-[url(https://images.unsplash.com/photo-1604014237800-1c9102c219da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)] bg-cover bg-center bg-no-repeat">
         <button class="flex justify-center py-2 text-white z-20 ml-auto">
-            <a href="#login" class="bg-[#76431C] rounded inline-block px-4 py-1 text-sm font-medium mr-8">LOGIN</a>
+            <a href="login" class="bg-[#76431C] rounded inline-block px-4 py-1 text-sm font-medium mr-8">LOGIN</a>
         </button>
         <div
             class=" inset-0 bg-white/75 sm:bg-transparent sm:from-white/95 sm:to-white/25 ltr:sm:bg-gradient-to-r rtl:sm:bg-gradient-to-l">
