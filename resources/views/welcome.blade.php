@@ -36,7 +36,7 @@
                 </p>
 
                 <div class="mt-8 text-center">
-                    <a href="#"
+                    <a href="/registerr"
                         class="block rounded bg-[#76431C] px-12 py-3 text-sm font-medium text-white shadow hover:bg-[#4C290E] focus:outline-none focus:ring active:bg-[#76431C] sm:w-auto">
                         JOIN US
                     </a>
